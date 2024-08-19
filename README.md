@@ -16,7 +16,7 @@
 <div style="display: inline">
   <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BsOvAKwTxTU%2BPU3xcP0%2FrUQ%3D%3D"> 
   <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:raulggsouza.pro@gmail.com?subject=Oi,%20preciso%20de%20ajuda&body=Olá,%20gostaria%20de%20saber%20mais%20sobre%20seus%20serviços">
+  <a href="mailto:raulggsouza.pro@gmail.com">
   <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <br>
