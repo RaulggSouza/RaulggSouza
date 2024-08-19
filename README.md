@@ -16,10 +16,12 @@
 <div style="display: inline">
   <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BsOvAKwTxTU%2BPU3xcP0%2FrUQ%3D%3D"> 
   <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:raulggsouza.pro@gmail.com?subject=Oi,%20preciso%20de%20ajuda&body=Olá,%20gostaria%20de%20saber%20mais%20sobre%20seus%20serviços">
+  <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <br>
-<div>
-<a href="https://github.com/RaulggSouza">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulggSouza&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RaulggSouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div style="display: inline">
+  <a href="https://github.com/RaulggSouza">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulggSouza&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=RaulggSouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
