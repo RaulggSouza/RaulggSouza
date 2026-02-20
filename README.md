@@ -26,6 +26,6 @@ I'm strange, and that's the best part of life
 <div style="display: inline">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seunome](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BsOvAKwTxTU%2BPU3xcP0%2FrUQ%3D%3D))
-  [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:raulggsouzal@hotmail.com)
+  [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:raulggsouza@hotmail.com)
 </div>
 <br>
