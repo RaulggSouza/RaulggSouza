@@ -1,4 +1,4 @@
-<h1>👋Hi there I'm Raul Souza</h1>
+<h1>👋Hi there I'm Raul Gonçaves Garcia de Souza</h1>
 <h2>💻Software Enginner starting in this world </br>
 📚Studying at IFSP - São Carlos, SP</h2>
 <h3>🖥️Used Languages:</h3>
