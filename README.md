@@ -1,4 +1,4 @@
-# 👋Hi there I'm Raul Gonçaves Garcia de Souza
+# 👋 Hi there I'm Raul Gonçaves Garcia de Souza
 ### 💻Software Enginner <br><br> 📚Studying at IFSP - São Carlos, SP <br><br> 🖥️ Backend Developer at Salespace
 
 ## 📘 About Me:
@@ -13,7 +13,7 @@ I'm always trying to learn something new; that's what makes life so exciting. I'
 
 I'm strange, and that's the best part of life
 
-### ⭐Favorite Languages and tools:
+### ⭐ Favorite Languages and tools:
 <div style="display: inline">
   <img width="50" height="50" src="https://cdn.simpleicons.org/typescript/222/fff" /> &nbsp&nbsp
   <img width="50" height="50" src="https://cdn.simpleicons.org/nestjs/222/fff" /> &nbsp&nbsp
@@ -22,7 +22,7 @@ I'm strange, and that's the best part of life
   <img width="50" height="50" src="https://cdn.simpleicons.org/python/222/fff" /> &nbsp&nbsp
 </div>
 
-### 🌐Contact Me:
+### 🌐 Contact Me:
 <div style="display: inline">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seunome](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BsOvAKwTxTU%2BPU3xcP0%2FrUQ%3D%3D))
