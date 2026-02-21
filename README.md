@@ -29,3 +29,6 @@ I'm strange, and that's the best part of life
   [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:raulggsouza@hotmail.com)
 </div>
 <br>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaulggSouza&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaulggSouza&theme=dracula) |
+| :-: | :-: |
